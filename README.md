@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Noy!
-**Junior Unity Developer** | **Software Engineer** | **Passionate about Game Development & Interactive Tools**
+**Unity Developer** | **Software Engineer** | **Passionate about Game Development & Interactive Tools**
 
 I'm Noy, a Unity developer and software engineer with a deep passion for creating immersive games and interactive experiences. I have a strong foundation in Java, Spring Boot, and Agile development practices, along with a creative mindset for crafting simulations and tools.
 
