@@ -9,6 +9,7 @@ I'm Noy, a Unity developer and software engineer with a deep passion for creatin
 - **Agile Methodologies:** Experienced in Scrum, continuous integration, and team collaboration.
 
 🔧 **Highlighted Projects:**
+- 🧠 **[LightOut](https://github.com/NoyChen1/LightOut/tree/main):** A minimalist puzzle game where players toggle tiles to turn off all lights, featuring pixel-art backgrounds, a custom stats system, and a modular architecture with UniTask and Zenject.
 - 🌵 **[CactusTreatmentForIn3D](https://github.com/NoyChen1/CactusTreatmentForIn3D):** A cactus life simulation built for a Unity developer test, featuring animations, custom shaders, and particle effects.
 - 🕹️ **[TileVania](https://github.com/NoyChen1/TileVania):** A 2D platformer game with complex mechanics such as ladder climbing, jumping, and avoiding obstacles.
 - 🎮 **[FPSGameV2](https://github.com/NoyChen1/FPSGameV2):** A first-person shooter game built in Unity, focused on smooth shooting mechanics and performance optimization.
